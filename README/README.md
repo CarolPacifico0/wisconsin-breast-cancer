@@ -13,18 +13,6 @@ This project applies **Logistic Regression** to the **Wisconsin Diagnostic Breas
 
 ---
 
- Exploratory Data Analysis
-
-Class Distribution
-![Class Distribution](Images/class_distribution.png)
-
-The dataset is imbalanced, with a majority of benign samples.
-
-Feature Distribution
-![Boxplot](Images/top_features_boxplot.png)
-
----
-
  Model Building
  Algorithm: Logistic Regression  
 We split the dataset into training and test sets (80/20 split), scaled the features, and applied logistic regression to predict tumor classification.
