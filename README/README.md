@@ -20,12 +20,9 @@ We split the dataset into training and test sets (80/20 split), scaled the featu
 ---
 
 Evaluation Metrics
+- Confusion Matrix
+- ROC Curve
 
-Confusion Matrix
-![Correlation Matrix](Images/Correlation_Matrix.png)  
-
-ROC Curve
-![ROC](Images/ROC.png) 
 
 - **Accuracy**: ~97%
 - **Precision** and **Recall** are both high, indicating strong performance.
@@ -67,8 +64,7 @@ Skills Demonstrated
 
 ---
 
-## 👩🏻‍💻 Author
-
+ Author
 **Ana Carolina Pacífico**  
 Biomedical Scientist & Bioinformatics Enthusiast  
 [LinkedIn](https://www.linkedin.com/in/ana-carolina-pacífico) | [GitHub](https://github.com/CarolPacifico0)
