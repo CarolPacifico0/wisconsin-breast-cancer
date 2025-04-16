@@ -22,10 +22,10 @@ We split the dataset into training and test sets (80/20 split), scaled the featu
 Evaluation Metrics
 
 Confusion Matrix
-![Confusion Matrix](Images/confusion_matrix.png)
+![Correlation Matrix](Images/Correlation_Matrix.png)  
 
 ROC Curve
-![ROC Curve](Images/roc_curve.png)
+![ROC](Images/ROC.png) 
 
 - **Accuracy**: ~97%
 - **Precision** and **Recall** are both high, indicating strong performance.
